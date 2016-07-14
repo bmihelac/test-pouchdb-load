@@ -1,3 +1,6 @@
+Repository for 
+https://github.com/nolanlawson/pouchdb-load/issues/50
+
 ```
 ➜  test-pouchdb-load git:(master) npm run build
 
